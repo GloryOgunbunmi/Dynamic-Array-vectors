@@ -1,24 +1,6 @@
 /**
  * @author Aduragbemi Ogunbunmi
  * Data Structures and Algorithms - CSCI 2302 
- * =====================================
- * Please complete the remaining operations:
-
-////////////////////////////
-To do 
- a. implement the copy constructor
- b. implement the equals method
-and complete  below if you have not done so
-////////////////////////////
-
-  1. set an element to a given index, reset the size of the array as the user insert 
-     data pass the maxLength
-  2. Resize the array if the user explicitly invoke the operation 
-  3. Modify the class so it can handle any kind of data type (generic data type class)
-  4. Make sure the code is fully documented and the file is fully described with appropriate 
-  information and algorithms
-
-
  * ==================================
  * @author Ken Nguyen
  * @purpose: simple illustration of a dynamic array/vector 

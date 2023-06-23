@@ -1,4 +1,4 @@
-# Structures
+# Dynamic Arrays/vectors 
 - implements the copy constructor
 - implements the equals method
 - sets an element to a given index, reset the size of the array as the user insert 
